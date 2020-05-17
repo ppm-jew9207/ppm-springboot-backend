@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>lt.ppm.crud</groupId>
-	<artifactId>sb-mini-crm</artifactId>
+	<artifactId>ppm-springboot-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PPM-CRUD</name>
 	<description>PPM-CRUD project for Spring Boot</description>
@@ -29,10 +29,6 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-freemarker</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

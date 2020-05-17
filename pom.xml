@@ -7,7 +7,7 @@
 	<artifactId>ppm-springboot-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PPM-CRUD</name>
-	<description>PPM-CRUD project for Spring Boot</description>
+	<description>PPM-CRUD backend project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
